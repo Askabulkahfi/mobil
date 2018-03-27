@@ -10,5 +10,18 @@ package mobil;
  * @author Mamed
  */
 public class classmobil {
+    String merk;
+    Integer harga;
+    String jenis;
+    String type;
+    String warna;
     
+    void cetakinfo(){
+        System.out.println("merek mobil : "+merk);
+        System.out.println("harga mobil : "+harga);
+        System.out.println("jenis mobil : "+jenis);
+        System.out.println("type mobil : "+type);
+        System.out.println("warna mobil : "+warna);
+        
+    }
 }
