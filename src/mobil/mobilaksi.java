@@ -40,6 +40,8 @@ public class mobilaksi {
         jazz.jenis="minicar";
         jazz.type="A";
         jazz.warna="putih";
-        jazz.cetakinfo();        
+        jazz.cetakinfo();       
+        
+        jazz.cetakinfo();
     }
 }
